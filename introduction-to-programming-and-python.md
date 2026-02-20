@@ -1,7 +1,11 @@
 # Introduction to Programming and Python
 
 ## What is Programming
-Programming is the process of creating a set of instructions that a computer can understand and execute. It involves writing code in a programming language to solve problems, automate tasks, or create applications.
+Programming is the process of giving instructions to a computer so that it can perform specific tasks.
+
+A computer cannot think on its own. It executes instructions exactly as written. Without programming, a computer is simply hardware. Programming gives it purpose.
+
+A program is a set of instructions written to solve a problem or perform a task.
 
 ## Understanding the Basics
 Programming is built on fundamental concepts such as variables, data types, control structures, functions, and algorithms. Understanding these basics is essential for any programmer.
