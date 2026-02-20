@@ -6,7 +6,7 @@ A structured and comprehensive collection of Python notes covering fundamentals 
 
 ## 📘 Chapters
 
-- Introduction to Programming and Python
+- [Introduction to Programming and Python](introduction-to-programming-and-python.md)
 - Chapter 1: Variables and Data Types (Coming Soon)
 
 ---
